@@ -29,7 +29,7 @@ This file accepts two environment variables, MAAS_API_URL and MAAS_API_KEY
 - Name: Nima Tabatabaee
 - Grops: Bladrina
 - Practice Name: Ops-002-terraform-maas-demo
-- @dwsclass dws-Ops-002-terraform
+- [@dwsclass](https://github.com/dwsclass) dws-ops-002-terraform
 
 
 Copyright 2022 Nima Tabatabaee <nima.tabatabaee@gmail.com>
