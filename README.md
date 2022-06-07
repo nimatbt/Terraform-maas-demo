@@ -3,13 +3,17 @@
 This terraform files provision node in Maas and deploy ubuntu os and KVM on it.
 
 
-What is Terraform?
+## What is Terraform?
 
 Terraform is an infrastructure as code tool which is used originally for provisioning cloud instances on various cloud providers.
 With Terraform and the aid of the IaC, we can provision machines and cloud instances with codes and without direct human interactions.
 Terraform is responsible for provisioning systems, usually Immutable ones. Terraform.io for more information.
 
-Get started guide:
+## What is MAAS?
+
+MAAS is Metal As A Service, a service that treats physical servers like virtual machines (instances) in the cloud.
+
+### Get started guide:
 
 This file accepts two environment variables, MAAS_API_URL and MAAS_API_KEY
 
